@@ -1,4 +1,4 @@
-## Igra iks oks s implementiranim igračom
+## Igra iks oks s implementiranim igračem
 Implementacija Minimax algoritma za pronalaženje najboljeg poteza protivnika.
 
 ### Korištenje
