@@ -1,6 +1,7 @@
-## Igra iks oks s implementiranim igračem
-Implementacija Minimax algoritma za pronalaženje najboljeg poteza protivnika.
+# Tic-Tac-Toe Game with AI Player  
 
-### Korištenje
-1. Klonirati repozitorij.
-2. Fajl index.html otvoriti u željenom web browser-u.
+Implementation of the Minimax algorithm to determine the best move for the opponent.  
+
+## Usage  
+1. Clone the repository
+2. Open the index.html file in your preferred web browser
